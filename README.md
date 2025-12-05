@@ -6,6 +6,8 @@ This repo includes the training and evaluation code of GVHMR on BEDLAM2 dataset.
 
 > BEDLAM2.0: Synthetic Humans and Cameras in Motion
 
+BEDLAM2.0 is a large-scale synthetic video dataset of animated bodies in simulated clothing, designed to train and test algorithms on the task of 3D human pose and shape estimation. With more than 8 million images, it is a significant expansion of the popular BEDLAM dataset that increases pose and body shape variation, and adds shoes and strand-based hair. Most importantly, it introduces a wide range of realistic cameras and camera motions.
+
 # GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates
 ### [Project Page](https://zju3dv.github.io/gvhmr) | [Paper](https://arxiv.org/abs/2409.06662)
 
