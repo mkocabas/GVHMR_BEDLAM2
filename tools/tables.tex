@@ -1,0 +1,24 @@
+\begin{table*}
+    \centering
+    \resizebox{0.5\textwidth}{!}{
+        
+    \begin{tabular}{l|cccccccc}
+        \cmidrule[0.75pt]{1-9} & \multicolumn{8}{c}{BEDLAM2}  \\
+        \cmidrule(lr){2-9}
+        
+        Models & PA-MPJPE & MPJPE & PVE & WA-MPJPE & W-MPJPE  & RTE & Jitter & Foot-Sliding \\
+        \cmidrule{1-9}
+        GVHMR~\cite{shen2024gvhmr} - B1 &  &  &  &  &  &  &  &   \\
+        GVHMR~\cite{shen2024gvhmr} - B2 &  &  &  &  &  &  &  &  \\
+        GVHMR~\cite{shen2024gvhmr} - B1 + B2 &  &  &  &  &  &  &  &  \\
+        \cmidrule[0.75pt]{1-9}
+        PHMR~\cite{promptHMR} - B1 &  &  &  &  &  &  &  &  \\
+        PHMR~\cite{promptHMR} - B2 &  &  &  &  &  &  &  &  \\
+        PHMR~\cite{promptHMR} - B1 + B2 &  &  &  &  &  &  &  &  \\
+        
+        \bottomrule
+    \end{tabular}
+    }
+    \caption{World space evaluation of video-based methods on B2 test set}
+    \label{tab:video_world_b2}
+\end{table*}
