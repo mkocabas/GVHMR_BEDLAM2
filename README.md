@@ -38,16 +38,16 @@ python tools/demo/demo_folder.py -f inputs/demo/folder_in -d outputs/demo/folder
 ```
 
 ### Reproduce
-1. **Test**:
+
+**Test**:
+
 To reproduce the 3DPW, RICH, EMDB, BEDLAM2 results in a single run, use the following command:
 
 ```shell
 python tools/train.py --cfg_file hmr4d/configs/gvhmr_b1b2.yaml ckpt_path=inputs/checkpoints/gvhmr/gvhmr_b1b2.ckpt task=test
 ```
 
-To reproduce BEDLAM2 results
-
-2. **Train**:
+**Train**:
 
 To train the model using BEDLAM1 and BEDLAM2 datasets use the following command:
 
