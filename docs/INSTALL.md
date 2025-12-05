@@ -58,7 +58,8 @@ inputs/checkpoints/
     └── yolov8x.pt
 ```
 
-## BEDLAM2 Checkpoints
+**BEDLAM2 Checkpoints**
+
 For GVHMR weights trained using BEDLAM2 datasets download them from this [Google Drive](https://drive.google.com/drive/folders/1ko2cJ5nkd72U9bH5K3Jzjo5VNyj9gJ73?usp=sharing) link.
 
 Place these checkpoints under `inputs/checkpoints/gvhmr/` folder.
