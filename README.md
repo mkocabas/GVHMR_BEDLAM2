@@ -1,5 +1,11 @@
 # Adaptation of GVHMR for BEDLAM2 training and evaluation
 
+This repo includes the training and evaluation code of GVHMR on BEDLAM2 dataset.
+
+### [Project Page](https://bedlam2.is.tuebingen.mpg.de/) | [Paper](https://arxiv.org/pdf/2511.14394)
+
+> BEDLAM2.0: Synthetic Humans and Cameras in Motion
+
 # GVHMR: World-Grounded Human Motion Recovery via Gravity-View Coordinates
 ### [Project Page](https://zju3dv.github.io/gvhmr) | [Paper](https://arxiv.org/abs/2409.06662)
 
