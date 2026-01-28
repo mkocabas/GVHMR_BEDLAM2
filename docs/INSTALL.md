@@ -64,6 +64,15 @@ For GVHMR weights trained using BEDLAM2 datasets download them from this [Google
 
 Place these checkpoints under `inputs/checkpoints/gvhmr/` folder.
 
+Alternatively, the checkpoints are also hosted on BEDLAM2 website:
+
+```
+https://download.is.tue.mpg.de/bedlam2/ml/videos/bedlam2_gvhmr.sha256
+https://download.is.tue.mpg.de/bedlam2/ml/videos/gvhmr_b1.ckpt
+https://download.is.tue.mpg.de/bedlam2/ml/videos/gvhmr_b1b2.ckpt
+https://download.is.tue.mpg.de/bedlam2/ml/videos/gvhmr_b2.ckpt
+```
+
 **Data**
 
 We provide preprocessed data for training and evaluation.
@@ -98,3 +107,10 @@ inputs/
 
 You can download the preprocessed BEDLAM2 data from [Google-Drive](https://drive.google.com/file/d/16gprX3LJxiLZhZ_e_IiMZRSIEbuXcCox/view?usp=sharing). 
 Please place the preprocessed data in the "inputs" folder similar to other datasets and unzip it under `inputs` directory.
+
+Alternatively, the preprocessed data is also hosted on BEDLAM2 website:
+
+```
+https://download.is.tue.mpg.de/bedlam2/ml/videos/gvhmr_b2.zip.sha256
+https://download.is.tue.mpg.de/bedlam2/ml/videos/gvhmr_b2.zip
+```
